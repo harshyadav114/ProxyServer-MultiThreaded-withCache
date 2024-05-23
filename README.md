@@ -1,11 +1,18 @@
 IN this project we have used the concept of CS core fundamentals
 like
+
 1.OS
+
 2.Data Structure
+
 3.Computer Networks
 
+
+
 From OS we have used semaphore , Mutex lock and Threading concepts
+
 From Data structure I have Used LRU cache Implementation Using LinkList 
+
 From Computer Networks I use socket Programing concept and HTTP and HTTPS concept
 
 The Below Diagram show us that when we open the the website again it retrive the data from cache 
