@@ -9,11 +9,11 @@ like
 
 
 
-From OS we have used semaphore , Mutex lock and Threading concepts
+->From OS we have used semaphore , Mutex lock and Threading concepts
 
-From Data structure I have Used LRU cache Implementation Using LinkList 
+->From Data structure I have Used LRU cache Implementation Using LinkList 
 
-From Computer Networks I use socket Programing concept and HTTP and HTTPS concept
+->From Computer Networks I use socket Programing concept and HTTP and HTTPS concept
 
 The Below Diagram show us that when we open the the website again it retrive the data from cache 
 
